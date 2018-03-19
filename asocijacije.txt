@@ -1,0 +1,31 @@
+﻿more
+ležaljka,suncobran,ručnik,palma,plaža
+kuhinja,natrij,morska,Nin,sol
+udovica,humor,zlato,zemlja,crno
+žeđ,vodik,kisik,čaša,voda
+životinja
+mijaukati,divlja,tigar,grebe,mačka
+lajati,grize,pekinezer,pitbul,pas
+pliva,morska,riječna,škrge,riba
+let,kljun,perje,krila,ptica
+Europa
+kruh,poljubac,Pariz,ključ,Francuska
+London,čaj,kraljica,Manchester United,Engleska
+Berlinski zid,pivo,Oktoberfest,bauštelci,Njemačka
+Jadran,Plitvička jezera,Zagreb,kravata,Hrvatska
+fakultet
+geologija,matematika,fizika,kemija,PMF
+sociologija,krotistika,psihologija,anglistika,Filozofski
+anatomija,patologija,doktori,lijekovi,medicina
+povijest sporta,fiziologija sporta i vježbanja,psihologija sporta,teorija treninga,KIF
+sport
+Ivano Balić,Lino Červar,PPD Zagreb,sedmerac,rukomet
+Grand Slam,Roger Federer,reket,dvostruka pogreška,tenis
+jedanaesterac,Liga prvaka,Dinamo Zagreb,zeleni teren,nogomet
+skok u dalj,bacanje diska,desetoboj,Usain Bolt,atletika
+horoskopski znak
+Afrika,griva,kralj životinja,mačka,lav
+rođeni na isti dan,jednojajčani,Mary-Kate i Ashley Olsen,sestre Zaninović,blizanci
+korida,govedo,toreador,tvrdoglav,bik
+jastog,riječni,tumor,ljuštura,rak
+

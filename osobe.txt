@@ -1,0 +1,6 @@
+﻿LidijaBacic,Jeste li po zanimanju pjevačica?,DA,NE,NE
+LidijaBacic,Jeste li izdali više od 30 albuma?,NE,DA,DA
+Einstein,Bavite li se fizikom?,DA,NE,NE
+Einstein,Jeste li po narodnosti Njemac?,DA,NE,NE
+Kolinda,Jeste li profesionalna sportašica?,NE,DA,DA
+Kolinda,Jeste li predsjednica Republike Hrvatske?,DA,NE,NE

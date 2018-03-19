@@ -1,0 +1,10 @@
+﻿Kako zovemo hladno sunčano vrijeme praćeno mrazom?,zubato sunce,T,ledeno sunce,N,krezubo sunce,N
+Koji je stari pozivni broj za Zagreb?,011,N,040,N,041,T
+Koji je Držićev lik znan po škrtosti sakrivao tezoro u ćupu?,Pomet,N,Skup,T,Stanac,N
+Koji je naš naziv za Ekvator?,kolutnik,N,polutnik,T,prisojnik,N
+Iz koje afričke države dolazi Kofi Annan?,Kameruna,T,Tunisa,N,Gane,N
+Francuska je himna postala popularna zahvaljujući dragovoljcima iz:,Marseilla,T,Pariza,N,Strasboura,N
+Kako nazivamo oštar zvuk koji proizvodi jak vjetar?,fijuk,T,pijuk,N,jauk,N
+Koga je u naslovu svoga romana Meša Selimović suočio sa smrću?,imama,N,hodžu,N,derviša,T
+S kojom su pjesmom "Novi fosili" na Euroviziji 1987. osvojili 4. mjesto?,Mangup,N,Ja sam za ples,T,Rock me baby,N
+Koji je glavni grad SAD-a?,Washington,T,New York,N,Los Angeles,N

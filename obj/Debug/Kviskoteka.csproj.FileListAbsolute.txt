@@ -1,0 +1,15 @@
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\bin\Debug\pitanja.txt
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form1.resources
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form2.resources
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form3.resources
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form4.resources
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Form5.resources
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Ana\Source\Repos\Kviskoteka\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
